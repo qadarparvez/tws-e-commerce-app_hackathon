@@ -14,6 +14,7 @@ EasyShop is a modern, full-stack e-commerce platform built with Next.js 14, Type
 - 🔐 Secure JWT-based authentication
 - 🛒 Real-time cart management with Redux
 - 📱 Mobile-first design approach
+- 
 - 🔍 Advanced product search and filtering
 - 💳 Secure checkout process
 - 📦 Multiple product categories
